@@ -1,4 +1,4 @@
-.sidebar{                    /* onedrive-> desktop -> gemini clone */
+.sidebar{                    
     min-height: 100vh;
     display: inline-flex;
     flex-direction: column;
